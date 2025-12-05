@@ -5,12 +5,7 @@ A clean and modern smartwatch product landing page built with **HTML5 & CSS3**.
 ---
 
 ## 🚀 Live Demo  
-👉 https://your-username.github.io/smartwatch-landing-page/
-
----
-
-## 📸 Preview  
-![Smartwatch](./images/watch.png)
+ https://itzmepramod.github.io/smartwatch-landing-page/
 
 ---
 
@@ -29,6 +24,6 @@ A clean and modern smartwatch product landing page built with **HTML5 & CSS3**.
 
 ---
 
-## 📂 Folder Structure
 
-# smartwatch-landing-page
+
+
